@@ -1,4 +1,4 @@
-# My Personal Project 
+# QuickCards 
 
 ## What Will The Application Do?
 This application is a flash card app, where a user can create flashcard sets, add new cards and use these cards to 
